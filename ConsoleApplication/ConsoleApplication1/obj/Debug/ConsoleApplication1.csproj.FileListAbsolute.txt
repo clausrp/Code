@@ -1,0 +1,8 @@
+D:\Code\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Code\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Code\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Code\ConsoleApplication1\ConsoleApplication1\bin\Debug\MQTTnet.Core.dll
+D:\Code\ConsoleApplication1\ConsoleApplication1\bin\Debug\MQTTnet.dll
+D:\Code\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Code\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Code\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

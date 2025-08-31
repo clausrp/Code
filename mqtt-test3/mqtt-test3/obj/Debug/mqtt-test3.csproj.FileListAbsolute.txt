@@ -1,0 +1,8 @@
+D:\Code\mqtt-test3\mqtt-test3\bin\Debug\mqtt-test3.exe.config
+D:\Code\mqtt-test3\mqtt-test3\obj\Debug\mqtt-test3.csprojResolveAssemblyReference.cache
+D:\Code\mqtt-test3\mqtt-test3\bin\Debug\mqtt-test3.exe
+D:\Code\mqtt-test3\mqtt-test3\bin\Debug\mqtt-test3.pdb
+D:\Code\mqtt-test3\mqtt-test3\bin\Debug\M2Mqtt.Net.dll
+D:\Code\mqtt-test3\mqtt-test3\bin\Debug\M2Mqtt.Net.pdb
+D:\Code\mqtt-test3\mqtt-test3\obj\Debug\mqtt-test3.exe
+D:\Code\mqtt-test3\mqtt-test3\obj\Debug\mqtt-test3.pdb

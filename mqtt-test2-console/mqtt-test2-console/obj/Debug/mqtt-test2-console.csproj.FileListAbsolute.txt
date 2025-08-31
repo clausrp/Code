@@ -1,0 +1,1 @@
+D:\Code\mqtt-test2-console\mqtt-test2-console\bin\Debug\mqtt-test2-console.exe.config

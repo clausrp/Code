@@ -1,0 +1,2 @@
+D:\Code\mqtt-test-console\mqtt-test-console\bin\Debug\mqtt-test-console.exe.config
+D:\Code\mqtt-test-console\mqtt-test-console\obj\Debug\mqtt-test-console.csprojResolveAssemblyReference.cache
